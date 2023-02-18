@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "tag": "minecraft:wool"
+
+    }
+  },
+  "pattern": [
+    "X",
+    "X",
+    "X"
+  ],
+  "result": {
+    "item": "knitcraft:white_yarn"
+  }
+}
